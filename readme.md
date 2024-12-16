@@ -145,4 +145,4 @@ sudo systemctl reload nginx
 
 15. Teste seu site no navegador!
 
-`http://<seu-dominio>`
+**http://<seu-dominio>|**
